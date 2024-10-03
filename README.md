@@ -4,7 +4,8 @@ MI PERFIL
 
 Hola a todos!😊 , 
 Mi nombre es Yanina Soto
-Soy Analista de Datos de Argentina
+Soy Analista de Datos de Argentina,
+tambien he realizado cursos sobre Front end Developer en la UTN,
 Cuando no estoy realizando practicas en los analisis y limpieza de datos en mi PC o practicando mi ingles,
 estoy pasando tiempo junto a mi familia!
 
