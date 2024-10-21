@@ -31,6 +31,8 @@ Realizar salidas en familia , como por ejemplo al cine o al rio.
 🛠 Estoy interesada en:
 Adquirir mi primer trabajo en Analisis de Datos
 
+<h3> ¡ Visita mi perfil de linkedin o enviame un Email !</h3>
+
 📲  Informacion de contacto:
 Linkedin: https://www.linkedin.com/in/yanina-soto/
 Email: sotoyanina542@gmail.com
