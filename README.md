@@ -3,14 +3,15 @@
 <h2>MI PERFIL</h2>
 
 Hola a todos!😊 , 
-Mi nombre es <strong> Yanina Soto </strong>
-Soy Analista de Datos de Argentina,
+Mi nombre es <strong> Yanina Soto </strong> vivo en Argentina
+Soy <strong> Analista de Datos </strong>, recientemente recibida en henry .
 tambien he realizado cursos sobre Front end Developer en la UTN,
 Cuando no estoy realizando practicas en los analisis y limpieza de datos en mi PC o practicando mi ingles,
 estoy pasando tiempo junto a mi familia!
 
 ✔️ Actualmente he finalizado mis estudios en Henry - Data Analytics
 He utilizado las siguientes herramientas para desarrollar diversos proyectos :
+
 <br>
 JIRA - para organizar las tareas
 <br>
@@ -22,6 +23,7 @@ POWER BI - Para realizar metricas y visualizaciones ( dashboard)
 <br>
 PYTHON - Para la limpieza de datos y graficos
 <br>
+
 😍 En mi tiempo libre me gusta:
 Realizar salidas en familia , como por ejemplo al cine o al rio.
 
