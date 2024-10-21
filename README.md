@@ -11,13 +11,17 @@ estoy pasando tiempo junto a mi familia!
 
 ✔️ Actualmente he finalizado mis estudios en Henry - Data Analytics
 He utilizado las siguientes herramientas para desarrollar diversos proyectos :
-
+<br>
 JIRA - para organizar las tareas
+<br>
 GOOGLE SHEETS - fue la herramienta con la que comenzamos uno de los proyectos
+<br>
 SQL SERVER - Para los procesos ETL
+<br>
 POWER BI - Para realizar metricas y visualizaciones ( dashboard)
+<br>
 PYTHON - Para la limpieza de datos y graficos
-
+<br>
 😍 En mi tiempo libre me gusta:
 Realizar salidas en familia , como por ejemplo al cine o al rio.
 
