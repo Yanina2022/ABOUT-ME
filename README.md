@@ -1,5 +1,4 @@
 
-# ABOUT-ME
 <h2>MI PERFIL</h2>
 
 Hola a todos!😊 , 
@@ -9,7 +8,7 @@ tambien he realizado cursos sobre Front end Developer en la UTN,
 Cuando no estoy realizando practicas en los analisis y limpieza de datos en mi PC o practicando mi ingles,
 estoy pasando tiempo junto a mi familia!
 
-✔️ Actualmente he finalizado mis estudios en Henry - Data Analytics
+<h3>✔️ Actualmente he finalizado mis estudios en Henry - Data Analytics </h3>
 He utilizado las siguientes herramientas para desarrollar diversos proyectos :
 
 <br>
@@ -24,12 +23,12 @@ POWER BI - Para realizar metricas y visualizaciones ( dashboard)
 PYTHON - Para la limpieza de datos y graficos
 <br>
 
-😍 En mi tiempo libre me gusta:
-Realizar salidas en familia , como por ejemplo al cine o al rio.
+<h3>😍 En mi tiempo libre me gusta:</h3>
+Realizar salidas en familia , como por ejemplo ir al cine o al rio o simplemente pasar tiempo en nuestro hogar.
 
 
-🛠 Estoy interesada en:
-Adquirir mi primer trabajo en Analisis de Datos
+<h3>🛠 Estoy interesada en:</h3>
+Adquirir mi primer trabajo en Analisis de Datos para mejorar mis conocimientos y aprender del dia a dia laboral aplicando todo lo aprendido 
 
 <h3> ¡ Visita mi perfil de linkedin o enviame un Email !</h3>
 
